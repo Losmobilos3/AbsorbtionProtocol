@@ -8,5 +8,5 @@ Collect screws for a reward once every golden screw is collected.
 Developers:
 - Mathias Bille Bundgaard Jørgensen
 - Sebastian Karl
-- Andreas Mandøe Hald Søndergaard
+- Andreas Hald Søndergaard Mandøe 
 - Daniel Østerballe
